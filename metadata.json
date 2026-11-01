@@ -1,0 +1,8 @@
+{
+  "name": "TECHNEST - Modern Electronics Store",
+  "description": "A portfolio demonstration e-commerce storefront for fictional electronics brand TECHNEST, featuring high-performance laptops, audio, workspace peripherals, and smart accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
